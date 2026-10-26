@@ -1,0 +1,12 @@
+HeadToHeadGolf website update — 26 October 2026
+
+1. Unzip this archive.
+2. Open your GitHub repository m33eex/headtoheadgolf.
+3. Upload the updated index.html, subscriptions.html, terms.html, privacy.html and deletion.html to the repository root, replacing the existing versions.
+4. Other original site files are included unchanged; you do not need to re-upload images or style.css.
+5. Wait for GitHub Pages to publish, then open index.html and subscriptions.html in a private browser window.
+6. Confirm the intended £24.99/year price matches the actual App Store Connect UK subscription price before release.
+
+Note: The homepage previously promised offline scoring and later synchronization. That claim has been replaced by live scoring language because offline operation was not independently verified here. If offline scoring is confirmed, it can be advertised again.
+
+No database, Swift code, Apple product configuration or legal identity/contact information was modified.

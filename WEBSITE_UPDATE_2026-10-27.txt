@@ -1,0 +1,10 @@
+HeadToHeadGolf website update — 27 October 2026
+
+Updated: index.html, subscriptions.html, terms.html, privacy.html, LEGAL_FINALISATION_CHECKLIST.md.
+Unchanged: existing CSS, images, account deletion page, other assets.
+
+Upload the changed site files to the root of your GitHub Pages repository and commit.
+Check /, /subscriptions.html, /terms.html, /privacy.html on the published HTTPS website.
+
+Important: Subscription expiry and account deletion remain subject to actual backend testing. Legal copy is a draft for owner review, not legal advice.
+The Privacy Policy and Terms contain the operator contact address already present in your original files; verify whether this is the intended public address.
